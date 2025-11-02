@@ -1,15 +1,20 @@
 [
   {
     "title": "Braveheart",
-    "imdb_id": "tt0112573"
+    "year": 1995,
+    "imdb_id": "tt0112573",
+    "tmdb_id": 197
   },
   {
     "title": "Anora",
-    "imdb_id": "tt28607951"
+    "year": 2024,
+    "imdb_id": "tt28607951",
+    "tmdb_id": 1064213
   },
   {
     "title": "The Grey",
-    "imdb_id": "tt1601913"
+    "year": 2011,
+    "imdb_id": "tt1601913",
+    "tmdb_id": 75174
   }
 ]
-
